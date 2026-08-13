@@ -28,3 +28,15 @@ Focus inventory, staffing, and operational planning on large pizzas during lunch
 * Increase revenue from existing customer demand.
 
 ---
+
+## 🛠️ Tools & Skills
+- Microsoft SQL Server
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Business Analysis
+- Reporting
+
+
+## 📄 Business Report
+The detailed findings, business implications, and recommendations are documented here:
+[Zepto Business Report](https://drive.google.com/file/d/1UY0PwxrxXK2K0yek-uPTL3vZNlGmpBst/view?usp=sharing)
