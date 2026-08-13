@@ -1,5 +1,5 @@
 # 🍕 Pizza Restaurant's Revenue Optimization Analysis
-
+Analysis period: Jan-Dec 2015 | Total revenue: $817,860 | Total orders: 21,350
 ## Executive Summary
 
 ---
