@@ -33,7 +33,7 @@ Focus inventory, staffing, and operational planning on large pizzas during lunch
 - Microsoft SQL Server
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-- Business Analysis
+- Data & Business Analysis
 - Reporting
 
 
