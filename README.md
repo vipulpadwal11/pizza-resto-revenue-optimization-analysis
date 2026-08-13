@@ -38,6 +38,14 @@ Focus inventory, staffing, and operational planning on large pizzas during lunch
 ```
 ---
 
+## 💡 Key Findings
+- Large pizzas contribute 45.89% of revenue
+- Lunch (12–1 PM) and dinner (5–7 PM) are peak revenue windows
+- Fridays generate the highest revenue
+- Top pizza portfolio creates concentration and stockout risk
+
+---
+
 ## 🛠️ Tools & Skills
 - Microsoft SQL Server
 - Data Cleaning
