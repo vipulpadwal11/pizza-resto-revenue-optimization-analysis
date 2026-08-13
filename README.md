@@ -28,6 +28,15 @@ Focus inventory, staffing, and operational planning on large pizzas during lunch
 * Increase revenue from existing customer demand.
 
 ---
+## 🗂️ Project Structure
+```
+├── ddl-pizza.sql
+├── explore-pizza.sql
+├── insights-pizza.sql
+├── Pizza Restaurant Revenue Optimization Report.pdf
+└── README.md
+```
+---
 
 ## 🛠️ Tools & Skills
 - Microsoft SQL Server
