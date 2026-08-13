@@ -1,6 +1,6 @@
 # 🍕 Pizza Revenue Optimization Analysis
 
-## Executive Summary
+# Executive Summary
 
 ---
 
