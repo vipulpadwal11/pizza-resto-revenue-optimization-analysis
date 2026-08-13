@@ -54,3 +54,8 @@ Focus inventory, staffing, and operational planning on large pizzas during lunch
 ## 📄 Business Report
 The detailed findings, business implications, and recommendations are documented here:
 [Pizza Restaurant Report](https://drive.google.com/file/d/1YR3h0g89gTKxFytICrEVdQS5YhjWdK_A/view?usp=sharing)
+
+
+<p align="center">
+  <img src="./dataset/download (1).jpg" alt="Pizza Resto Revenue Optimization Analysis" width="500">
+</p>
